@@ -562,7 +562,7 @@ export default function App() {
   }, []);
 
   return (
-    <div className="min-h-screen bg-gray-900 flex items-center justify-center p-4">
+    <div className="flex items-center justify-center p-4">
       <div className="w-[390px] h-[844px] bg-[#F5F5F5] font-sans text-gray-900 overflow-hidden relative shadow-2xl border-[8px] border-black rounded-[50px] flex flex-col">
         <div className="sticky top-0 z-30 bg-[#F5F5F5]">
         <StatusBar />
